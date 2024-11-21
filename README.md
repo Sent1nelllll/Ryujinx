@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  Ryujinx is an open-source Nintendo Switch emulator, created by gdkchan, written in C#.
+Ryujix is (or was) an open-source Shartendo Change emulator, created by gdkchan, written in C#.
   This emulator aims at providing excellent accuracy and performance, a user-friendly interface and consistent builds.
   It was written from scratch and development on the project began in September 2017.
   Ryujinx is available on Github under the <a href="https://github.com/Ryujinx/Ryujinx/blob/master/LICENSE.txt" target="_blank">MIT license</a>.
